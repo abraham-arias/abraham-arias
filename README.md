@@ -23,4 +23,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/abraham-arias-8004aa278
+[linkedin]: www.linkedin.com/in/abraham-arias-8004aa278/
