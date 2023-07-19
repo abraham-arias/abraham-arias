@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abraham, an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">IT Professional</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> 🧑🏻‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
@@ -12,10 +12,10 @@
   - [Network File Shares and Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
 
-  <b><h3>🛡️Cybersecurity Projects🛡️</h3></b>
+  <b><h3>Cybersecurity Projects</h3></b>
   - [Cloud Honeynet🍯 | SOC🕵️‍♂️ | Network Hardening🔒](https://github.com/abraham-arias/Live-Honeynet-SOC-and-Cloud-Network-Hardening-in-MS-Azure)
 
-<h4>🤳Connect with me:</h4>
+<h4>Connect with me:</h4>
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
