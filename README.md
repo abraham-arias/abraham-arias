@@ -1,6 +1,7 @@
-<h1>Hi, I'm Abraham, an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">IT Professional</h1>
+<h1>HOLA, I'm Abraham
+an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">IT Professional</h1>
 
-<h2> 🧑🏻‍💻 Information Technology Projects:</h2>
+<h2> 🧑🏻‍💻 Responsive Email Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
