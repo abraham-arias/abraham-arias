@@ -1,20 +1,25 @@
 <h1>HOLA, I'm Abraham
-an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">IT Professional</h1>
+an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">Email Developer</h1>
 
 <h2> 🧑🏻‍💻 Responsive Email Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/abraham-arias/osTicket---Post-Install-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/abraham-arias/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
+
+  - [Promotional HTML Email for a fitness company tested with Email on acid](https://abraham-arias.github.io/promotional-email/)
+  - 
+  - [Transactional HTML Email for a supplements company tested with Email on acid](https://abraham-arias.github.io/transactional-email/)
+  - 
+  - [Newsletter HTML Email for a Pet-Shop Tested With Litmus](https://abraham-arias.github.io/pet-shop-email/)
+  - 
+  - [Promotional HTML Email for Apple's Mac Studio Tested With Litmus](https://abraham-arias.github.io/Mac-Studio-Responsive-Emial.github.io/)
+
+  - [Promotional HTML Email for Lounge Tested With Litmus](https://abraham-arias.github.io/lounge-Responsive-Emial.github.io/)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
   - [Network File Shares and Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
 
-  <b><h3>Cybersecurity Projects</h3></b>
-  - [Cloud Honeynet🍯 | SOC🕵️‍♂️ | Network Hardening🔒](https://github.com/abraham-arias/Live-Honeynet-SOC-and-Cloud-Network-Hardening-in-MS-Azure)
+
 
 <h4>Connect with me:</h4>
 
