@@ -4,7 +4,7 @@ an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">Email Developer</h1>
 <h2> 🧑🏻‍💻 Responsive Email Projects:</h2>
 
 
-  - [Promotional HTML Email for a fitness company tested with Email on acid](href="_blank"https://abraham-arias.github.io/promotional-email/)
+  - [Promotional HTML Email for a fitness company tested with Email on acid](https://abraham-arias.github.io/promotional-email/)
     
   - [Transactional HTML Email for a supplements company tested with Email on acid](https://abraham-arias.github.io/transactional-email/)
     
