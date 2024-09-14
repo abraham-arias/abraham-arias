@@ -14,9 +14,10 @@ an IT Professional.</h1>
   - [Creating a Virtual Machine in Azure](https://github.com/abraham-arias/Creating-a-Virtual-Machine-in-Azure/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Resetting Passwords and Unlocking Accounts](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
-  - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
+     
   
-  - <b>Network and WireShark </b>
+  - <b>DNS Networking and WireShark </b>
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
+  - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
+  - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
     
