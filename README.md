@@ -1,7 +1,7 @@
 <h1>HOLA, I'm Abraham, 
 an IT Professional.</h1>
 
-<h2> 🧑🏻‍💻 Information Technology Projects :</h2>
+<h2>🖥️ Information Technology Projects:</h2>
 
 
   - <b>osTicket (Help Desk Ticketing System) </b>
@@ -20,4 +20,5 @@ an IT Professional.</h1>
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
   - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
   - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
-    
+
+    <h2>📜Certificates:</h2>
