@@ -1,5 +1,5 @@
-<h1>HOLA, I'm Abraham
-an IT Professiona</h1>
+<h1>HOLA, I'm Abraham, 
+an IT Professional.</h1>
 
 <h2> 🧑🏻‍💻 Information Technology Projects :</h2>
 
