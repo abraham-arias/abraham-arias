@@ -1,27 +1,21 @@
 <h1>HOLA, I'm Abraham
-an <a href="www.linkedin.com/in/abraham-arias-8004aa278/">Email Developer</h1>
+an <a >an IT Professiona</h1>
 
-<h2> 🧑🏻‍💻 Responsive HTML Email I Worked on :</h2>
+<h2> 🧑🏻‍💻 Information Technology Projects :</h2>
 
 
-  - [Promotional HTML Email for a fitness company tested with Email on acid](https://abraham-arias.github.io/promotional-email/)
+  - <b>osTicket (Help Desk Ticketing System) </b>
     
-  - [Transactional HTML Email for a supplements company tested with Email on acid](https://abraham-arias.github.io/transactional-email/)
-    
-  - [Newsletter HTML Email for a Pet-Shop Tested With Litmus](https://abraham-arias.github.io/pet-shop-email/)
-    
-  - [Promotional HTML Email for Apple's Mac Studio Tested With Litmus](https://abraham-arias.github.io/Mac-Studio-Responsive-Emial.github.io/)
-
-  - [Promotional HTML Email for Lounge Tested With Litmus](https://abraham-arias.github.io/lounge-Responsive-Emial.github.io/)
-
-
-
-<h4>Connect with me:</h4>
-
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/abraham-arias-8004aa278/
+  - [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/abraham-arias/osTicket---Post-Install-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/abraham-arias/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
+ 
+  - <b>Microsoft Azure and Active Directory</b>
+  - [Creating a Virtual Machine in Azure](https://github.com/abraham-arias/Creating-a-Virtual-Machine-in-Azure/tree/main)
+  - [Configuring On-premises Active Directory within Azure VMs <br>Resetting Passwords and Unlocking Accounts<br>](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+  - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
+  
+  - <b>Network and WireShark </b>
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
+  - 
