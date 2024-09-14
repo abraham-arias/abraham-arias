@@ -12,7 +12,8 @@ an IT Professional.</h1>
  
   - <b>Microsoft Azure and Active Directory</b>
   - [Creating a Virtual Machine in Azure](https://github.com/abraham-arias/Creating-a-Virtual-Machine-in-Azure/tree/main)
-  - [Configuring On-premises Active Directory within Azure VMs <br>Resetting Passwords and Unlocking Accounts<br>](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+  - [Resetting Passwords and Unlocking Accounts](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
   
