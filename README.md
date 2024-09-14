@@ -16,7 +16,7 @@ an IT Professional.</h1>
     - [Resetting Passwords and Unlocking Accounts](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
      
   
-  - <b>DNS Networking and WireShark </b>
+  - <b>DNS, Networking and WireShark </b>
     - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
     - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
     - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
