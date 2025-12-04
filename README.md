@@ -29,21 +29,21 @@ Windows 10/11, Windows Server, Linux, macOS
 
 ### 🧰 **osTicket Help Desk Ticketing System (Azure Deployment)**
 A full help desk environment deployed on Azure VMs, demonstrating ticket lifecycle management, SLAs, routing, troubleshooting, and documentation.
-    - [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
-    - [osTicket: Post-Installation Configuration](https://github.com/abraham-arias/osTicket---Post-Install-Configuration)
-    - [osTicket: Ticket Lifecycle Examples](https://github.com/abraham-arias/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
+- [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
+- [osTicket: Post-Installation Configuration](https://github.com/abraham-arias/osTicket---Post-Install-Configuration)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/abraham-arias/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
 ### 🗂️ **Active Directory Domain Deployment (Azure Lab)**
 Built an on-prem Active Directory environment in Azure, configured users, groups, OUs, permissions, and automated onboarding with PowerShell.
-    - [Creating a Virtual Machine in Azure](https://github.com/abraham-arias/Creating-a-Virtual-Machine-in-Azure/tree/main)
-    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
-    - [Resetting Passwords and Unlocking Accounts](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+- [Creating a Virtual Machine in Azure](https://github.com/abraham-arias/Creating-a-Virtual-Machine-in-Azure/tree/main)
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+- [Resetting Passwords and Unlocking Accounts](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
 ### 🌐 **Networking, DNS & Wireshark Analysis Lab**
 Configured NSGs, inspected traffic between VMs, created DNS records, analyzed traffic flows (DNS, RDP, SSH, HTTP/S) using Wireshark.
-    - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
-    - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
+- [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/abraham-arias/Utilizing-Wireshark-to-Explore-Network-Traffic)
+- [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
 ### 📁 **Windows File Sharing & Permissions Lab**
 Created secure file shares, configured NTFS/share permissions, tested access for users and groups, and documented permission behavior.
-    - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
+- [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
 ---
 
 ## 🚀 What I'm Learning Now
