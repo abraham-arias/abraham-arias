@@ -1,5 +1,4 @@
-<h1>HOLA, I'm Abraham, 
-an IT Professional.</h1>
+<h1>Aspiring IT Support Specialist | Hands-On Experience in AD, Azure, Networking, and Ticketing Systems.</h1>
 
 <h2>🖥️ Information Technology Projects:</h2>
 
@@ -21,4 +20,7 @@ an IT Professional.</h1>
     - [Building Intuition for DNS](https://github.com/abraham-arias/Building-Intuition-for-DNS)
     - [Network-File-Shares-and-Permissions](https://github.com/abraham-arias/Network-File-Shares-and-Permissions)
 
-    <h2>📜Certificates:</h2>
+    <h2>📜Certifications:</h2>
+    -Comptia A+
+    -Cisco Certified Network Associate (CCNA)
+    -Comptia Security+
