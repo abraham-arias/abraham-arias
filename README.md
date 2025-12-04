@@ -25,7 +25,7 @@ Windows 10/11, Windows Server, Linux, macOS
 
 ---
 
-## 📌 Featured Projects (Pinned Repositories)
+## 📌 Featured Projects 
 
 ### 🧰 **osTicket Help Desk Ticketing System (Azure Deployment)**
 A full help desk environment deployed on Azure VMs, demonstrating ticket lifecycle management, SLAs, routing, troubleshooting, and documentation.
