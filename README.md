@@ -29,7 +29,7 @@ Windows 10/11, Windows Server, Linux, macOS
 
 ### 🧰 **osTicket Help Desk Ticketing System (Azure Deployment)**
 A full help desk environment deployed on Azure VMs, demonstrating ticket lifecycle management, SLAs, routing, troubleshooting, and documentation.
-- [osTicket: Prerequisites and Installation](https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation)
+- <a href="https://github.com/abraham-arias/osTicket-Prerequisites-and-Installation" target="_blank">[osTicket: Prerequisites and Installation]</a>()
 - [osTicket: Post-Installation Configuration](https://github.com/abraham-arias/osTicket---Post-Install-Configuration)
 - [osTicket: Ticket Lifecycle Examples](https://github.com/abraham-arias/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
 ### 🗂️ **Active Directory Domain Deployment (Azure Lab)**
