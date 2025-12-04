@@ -34,7 +34,6 @@ A full help desk environment deployed on Azure VMs, demonstrating ticket lifecyc
 - [osTicket: Ticket Lifecycle Examples](https://github.com/abraham-arias/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
 ### 🗂️ **Active Directory Domain Deployment (Azure Lab)**
 Built an on-prem Active Directory environment in Azure, configured users, groups, OUs, permissions, and automated onboarding with PowerShell.
-- [Creating a Virtual Machine in Azure](https://github.com/abraham-arias/Creating-a-Virtual-Machine-in-Azure/tree/main)
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
 - [Resetting Passwords and Unlocking Accounts](https://github.com/abraham-arias/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
 ### 🌐 **Networking, DNS & Wireshark Analysis Lab**
